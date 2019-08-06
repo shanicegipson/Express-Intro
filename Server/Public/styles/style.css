@@ -1,0 +1,43 @@
+.container {
+    align-self: auto;
+    border: 2px solid lightseagreen; 
+}
+
+h2 {
+    text-align: center;
+}
+
+
+thead {
+    background: lightseagreen;
+}
+
+table {
+    background: white;
+    border: 1px solid lightgray;
+    width: 100%; text-align: center;
+}
+
+
+tbody > tr {
+    padding: 6px;
+}
+
+tbody > tr > td {
+    padding: 6px;
+    border: 1px solid gray;
+}
+
+
+
+.js-btn-employee {
+    background: lightseagreen;
+}
+
+thead {
+    border: 1px solid lightgray;
+}
+
+/* tfoot {
+background: red;
+} */
