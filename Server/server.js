@@ -1,5 +1,5 @@
 // Require express - gives us a function
-const express = require('express');
+const express = require('./node_modules/express');
 
 // Create an instance of express by calling the function returned above - gives us an object
 const app = express();
